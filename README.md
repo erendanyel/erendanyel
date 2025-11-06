@@ -2,8 +2,7 @@
 
 🎓 **Computer Science @ USC**  
 💻 Building **AI-driven tools, automation systems & creative tech projects**  
-📍 Los Angeles, CA • ✉️ **erendanyel@gmail.com** • [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erendanyel)
-
+📍 Los Angeles, CA • ✉️ **erendanyel@gmail.com** • [🌐 LinkedIn](https://linkedin.com/in/erendanyel)
 ---
 
 ## 🚀 About Me  
