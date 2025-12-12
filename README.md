@@ -6,14 +6,6 @@
 
 ---
 
-## 🚀 About Me  
-Hey there! I’m Eren, a developer who loves turning complex ideas into clean, working code. 
-I enjoy building AI-powered tools, automation pipelines, and experimental web apps that blur the line between creativity and logic. 
-
-I’m currently diving deep into **Python**, **FastAPI**, and **browser automation**, and always looking for cool ways to make tech more intuitive. 
-
----
-
 ## 🧠 Featured Projects  
 
 #### 🏙️ [Real Estate Rent Analyzer](https://github.com/erendanyel/real-estate-analyzer)  
